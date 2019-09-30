@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "text": "Hey there!",
+    "isPrivate": false
+  },
+  {
+    "id": 1,
+    "text": "How are you?",
+    "isPrivate": false
+  }
+]
